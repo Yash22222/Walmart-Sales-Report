@@ -1,7 +1,7 @@
 # Walmart-Sales-Report Using MS Power BI & Tableau
 Hello, Connections...!
 
-I have Updated my PowerBI Report on Walmart to include a page showing 
+✡︎ My Power BI Report on Walmart Sales Data-
 
 1) Sum of Profit by State and Category
 
@@ -15,7 +15,7 @@ I have Updated my PowerBI Report on Walmart to include a page showing
 
 6) Product Category table Include Checkbox
 
-My Tableau Report on Walmart Sales Data-
+✡︎ My Tableau Report on Walmart Sales Data-
 
 1) Sales by Category
 
