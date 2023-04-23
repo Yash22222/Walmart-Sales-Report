@@ -24,3 +24,6 @@ Hello, Connections...!
 3) Sales by State
 
 4) Sales by Month
+
+
+![image](https://user-images.githubusercontent.com/97459174/233823477-4f2a03f8-00fd-4407-8d93-1046d3a74c93.png)
