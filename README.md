@@ -1,4 +1,8 @@
 # Walmart-Sales-Report Using MS Power BI & Tableau
+
+Link of My Tableau Public Profile:-
+https://public.tableau.com/views/WalmartSalesData_16821546245830/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Hello, Connections...!
 
 ✡︎ My Power BI Report on Walmart Sales Data-
